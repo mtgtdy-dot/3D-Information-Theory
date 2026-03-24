@@ -1,0 +1,8 @@
+turb=0.6.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 9019 bytes.
+document.md (text/markdown) 1068 bytes.
+No turbulence.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 9003 bytes.
+turb=1.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 9005 bytes.
+turb=0.2.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 9022 bytes.
+turb=1.2.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 9006 bytes.
+turb=0.4.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 9024 bytes.
+turb=0.8.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 9009 bytes.
